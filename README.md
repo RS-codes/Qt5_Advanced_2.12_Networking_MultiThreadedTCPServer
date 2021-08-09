@@ -1,3 +1,5 @@
 # Qt5_Advanced_2.12_Networking_MultiThreadedTCPServer
 
-#SourceCode to be added soon
+#Under Networking, MultiThreaded TCP Server discussed and
+
+#SourceCode added 
